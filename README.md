@@ -5,7 +5,10 @@ Questões do desafio Semantix
 Observações:
 1) As respostas dissertativas do arquivo "Desafio Engenheiro de Dados.pdf" estão no arquivo "Respostas Spark.docx".
 
-2) Para o desenvolvimento das questões, foi utilizado apenas os dados do segundo link, o primeiro (ftp://ita.ee.lbl.gov/traces/NASA_access_log_Jul95.gz) está solicitando usario e senha para baixar.
+2) Para o desenvolvimento das questões foi utilizado apenas os dados do segundo link que eu já havia carregado no databriks da ultima vez em que fiz a prova, os dois links do desafio hoje (28/10/2019) estão indisponiveis.
+
+ftp://ita.ee.lbl.gov/traces/NASA_access_log_Jul95.gz
+ftp://ita.ee.lbl.gov/traces/NASA_access_log_Aug95.gz
 
 3)Para resolução dos exercicios foi utilizado a plataforma "databricks community", abaixo segue link das questões direto na plataforma caso achar melhor para avaliar.
 
